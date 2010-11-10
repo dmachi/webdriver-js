@@ -1,0 +1,11 @@
+{
+	"name": "webdriver-js",
+	"version": ".9",
+	"description": "Remote Web Driver client commonjs package",
+	"author": "Dustin Machi",
+	"mappings": {
+		"commonjs-utils": "jar:http://github.com/kriszyp/commonjs-utils/zipball/master!/lib/",
+		"promised-io": "jar:http://github.com/kriszyp/promised-io/zipball/master!/lib/",
+		"patr": "jar:https://github.com/kriszyp/patr/zipball/master!/lib/"	
+	}
+}
